@@ -2,8 +2,6 @@
 
 draw_clear(c_black);
 
-shader_set(shd_basic_3d_stuff);
-
 // 3D projections require a view and projection matrix
 var camera = camera_get_active();
 var camera_distance = 160;
