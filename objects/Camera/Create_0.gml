@@ -46,5 +46,5 @@ instance_create_depth(0, 0, 0, Player);
 znear = 1;
 zfar = 32000;
 
-vb_merry = scr_calculate_normals(load_model("merry.d3d"));
-vb_sphere = scr_calculate_normals(load_model("sphere.d3d"));
+vb_merry = load_model("merry.d3d");
+vb_sphere = load_model("sphere.d3d");
