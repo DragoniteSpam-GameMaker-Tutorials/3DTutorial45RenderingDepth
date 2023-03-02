@@ -1,5 +1,7 @@
 /// @description Draw the 3D world
 
+surface_set_target(self.depth_surface);
+
 draw_clear(c_black);
 
 // 3D projections require a view and projection matrix
@@ -22,3 +24,7 @@ camera_set_proj_mat(camera, proj_mat);
 camera_apply(camera);
 
 scr_draw_all_the_stuff();
+
+surface_reset_target();
+
+draw_surface(self.depth_surface, 0, 0);

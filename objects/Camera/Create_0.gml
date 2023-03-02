@@ -48,3 +48,5 @@ zfar = 32000;
 
 vb_merry = load_model("merry.d3d");
 vb_sphere = load_model("sphere.d3d");
+
+self.depth_surface = surface_create(window_get_width(), window_get_height(), surface_r32float);
