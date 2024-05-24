@@ -19,7 +19,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2.3.7.606",
+    "IDEVersion":"2024.600.0.557",
   },
   "name":"3DTutorial45RenderingDepth",
   "resources":[
@@ -33,6 +33,7 @@
     {"id":{"name":"vertex_add_point","path":"scripts/vertex_add_point/vertex_add_point.yy",},},
     {"id":{"name":"shd_basic_3d_stuff","path":"shaders/shd_basic_3d_stuff/shd_basic_3d_stuff.yy",},},
     {"id":{"name":"shd_depth","path":"shaders/shd_depth/shd_depth.yy",},},
+    {"id":{"name":"shd_draw_depth","path":"shaders/shd_draw_depth/shd_draw_depth.yy",},},
     {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},},
   ],
   "resourceType":"GMProject",

@@ -10,6 +10,7 @@
     {"name":"screen_to_world","order":3,"path":"scripts/screen_to_world/screen_to_world.yy",},
     {"name":"shd_basic_3d_stuff","order":5,"path":"shaders/shd_basic_3d_stuff/shd_basic_3d_stuff.yy",},
     {"name":"shd_depth","order":9,"path":"shaders/shd_depth/shd_depth.yy",},
+    {"name":"shd_draw_depth","order":10,"path":"shaders/shd_draw_depth/shd_draw_depth.yy",},
     {"name":"spr_grass","order":4,"path":"sprites/spr_grass/spr_grass.yy",},
   ],
 }

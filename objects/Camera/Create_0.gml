@@ -44,7 +44,7 @@ vertex_end(ground);
 instance_create_depth(0, 0, 0, Player);
 
 znear = 1;
-zfar = 32000;
+zfar = 1000;
 
 vb_merry = load_model("merry.d3d");
 vb_sphere = load_model("sphere.d3d");
