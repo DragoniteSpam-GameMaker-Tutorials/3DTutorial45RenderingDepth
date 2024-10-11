@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"scr_draw_all_the_stuff",
   "isCompatibility":false,
   "isDnD":false,
