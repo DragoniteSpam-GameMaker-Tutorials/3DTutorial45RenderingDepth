@@ -1,10 +1,12 @@
 {
-  "resourceType": "GMShader",
-  "resourceVersion": "1.0",
-  "name": "shd_depth",
-  "parent": {
-    "name": "3DTutorial45RenderingDepth",
-    "path": "3DTutorial45RenderingDepth.yyp",
+  "$GMShader":"",
+  "%Name":"shd_depth",
+  "name":"shd_depth",
+  "parent":{
+    "name":"3DTutorial45RenderingDepth",
+    "path":"3DTutorial45RenderingDepth.yyp",
   },
-  "type": 1,
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
 }
